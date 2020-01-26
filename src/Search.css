@@ -1,0 +1,22 @@
+.container {
+    margin: 36px auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+.heading {
+    font-size: 30px;
+    padding: 16px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.search-label {
+    position: relative;
+}
+
+.container input {
+    width: 100%;
+    padding: 16px;
+    font-size: 30px;
+}
